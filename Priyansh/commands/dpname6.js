@@ -1,5 +1,5 @@
 module.exports.config = {
-  name: "dpname",
+  name: "dpname6",
   version: "1.0.0",
   hasPermssion: 0,
   credits: "JAGDEEP",
